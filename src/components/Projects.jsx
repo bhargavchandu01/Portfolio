@@ -8,6 +8,31 @@ const Projects = () => {
         <p>A showcase of robust architectural designs and interactive productions.</p>
       </div>
       <div className="projects-grid">
+
+        <div className="project-card glass-panel reveal">
+          <div className="project-img-wrapper">
+            <img src="/assets/TangleTrail.jpg" alt="TangleTrail" className="project-img"
+              onError={(e) => { e.target.src = 'https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=800&q=80'; }} />
+          </div>
+          <div className="project-content">
+            <h3>TangleTrail (2023 - 2024)</h3>
+            <p>3D Adventure Android Mobile Game consisting of a maze and parkour.</p>
+            <div className="tags">
+              <span className="tag">Unreal Engine 5</span>
+              <span className="tag">Blueprints</span>
+              <span className="tag">Android SDK,NDK</span>
+              <span className="tag">Gradle</span>
+              <span className="tag">C++</span>
+            </div>
+          
+            <div className="project-links-row">
+              <a href="https://github.com/SubLochan/TangleTrail" target="_blank" rel="noreferrer" className="project-btn">
+                <i className="fa-brands fa-github"></i> Repository
+              </a>
+            </div>
+            </div>
+          
+        </div>
         
         <div className="project-card glass-panel reveal">
           <div className="project-img-wrapper">
