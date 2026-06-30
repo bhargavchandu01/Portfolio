@@ -34,7 +34,7 @@ const Hero = () => {
               &nbsp;&nbsp;String[] coreStack = {'{'}<span className="string">"Java"</span>, <span className="string">"React"</span>, <span className="string">"Spring Boot"</span>{'}'};<br />
               <br />
               &nbsp;&nbsp;<span className="keyword">public</span> <span className="keyword">void</span> <span className="variable">execute</span>() {'{'}<br />
-              &nbsp;&nbsp;&nbsp;&nbsp;System.out.println(<span className="string">"Architecting robust systems..."</span>);<br />
+              &nbsp;&nbsp;&nbsp;&nbsp;System.out.println(<span className="string">"Developing real world applications..."</span>);<br />
               &nbsp;&nbsp;{'}'}<br />
               {'}'}
             </code>
