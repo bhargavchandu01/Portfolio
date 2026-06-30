@@ -15,10 +15,10 @@ const Skills = () => {
           <SkillItem name="JavaScript / React" width="85%" />
         </div>
         <div className="skill-card glass-panel reveal">
-          <h3><i className="fa-solid fa-gamepad"></i> Game Dev</h3>
-          <SkillItem name="Unreal Engine 5" width="90%" />
-          <SkillItem name="Multiplayer Architecting" width="80%" />
-          <SkillItem name="Blender 3D" width="75%" />
+          <h3><i className="fa-solid fa-gamepad"></i> Web Dev</h3>
+          <SkillItem name="React " width="90%" />
+          <SkillItem name="Node" width="80%" />
+          <SkillItem name="Spring Boot" width="75%" />
         </div>
         <div className="skill-card glass-panel reveal">
           <h3><i className="fa-solid fa-server"></i> Tools & Delivery</h3>

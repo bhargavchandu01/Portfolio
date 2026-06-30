@@ -12,12 +12,13 @@ const Experience = () => {
           <div className="timeline-dot"></div>
           <div className="timeline-content glass-panel">
             <div className="timeline-date">Jan 2026 – Present</div>
-            <h3>Game Developer Intern</h3>
-            <h4>Akiyam Solutions Pvt. Ltd — Hyderabad, India</h4>
+            <h3>AI Interior Design Generator</h3>
+            <h4>GruhaBuddy</h4>
             <ul>
-              <li>Created and integrated ScoreStreaks logic (UAV, HunterDrone, Cluster Strike) in Unreal Engine 5 for Beyonders, enhancing player progression and reward systems.</li>
-              <li>Optimized multiplayer replication, client-server communication, and event triggers, ensuring accurate synchronization and smooth gameplay.</li>
-              <li>Applied performance tuning and version control best practices, reducing in-game errors by 30% and improving overall stability.</li>
+              <li>Developed an AI system to convert empty room images into fully designed interiors using AI APIs and image
+processing techniques.</li>
+              <li></li>
+              <li></li>
             </ul>
           </div>
         </div>

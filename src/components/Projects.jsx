@@ -15,8 +15,8 @@ const Projects = () => {
               onError={(e) => { e.target.src = 'https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=800&q=80'; }} />
           </div>
           <div className="project-content">
-            <h3>TangleTrail (2023 - 2024)</h3>
-            <p>3D Adventure Android Mobile Game consisting of a maze and parkour.</p>
+            <h3>GruhaBuddy - (2025)</h3>
+            <p>AI Interior Design Generator</p>
             <div className="tags">
               <span className="tag">Unreal Engine 5</span>
               <span className="tag">Blueprints</span>
@@ -95,8 +95,8 @@ const Projects = () => {
               onError={(e) => { e.target.src = 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80'; }} />
           </div>
           <div className="project-content">
-            <h3>Rabbit Rush (2026)</h3>
-            <p>RabbitRush is a fast‑paced 2D adventure where a brave rabbit collects carrots while overcoming challenging levels.</p>
+            <h3>My Portfolio (2026)</h3>
+            <p>SHowcase of my skills</p>
             <div className="tags">
               <span className="tag">React</span>
               <span className="tag">Vite</span>
@@ -120,7 +120,7 @@ const Projects = () => {
               onError={(e) => { e.target.src = 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80'; }} />
           </div>
           <div className="project-content">
-            <h3>Telecom Comparator</h3>
+            <h3>AI Quiz Assessment Platform</h3>
             <p>Full-stack web application orchestrating secure APIs via Spring Boot and PostgreSQL. Deployed seamlessly to Render with complete CI/CD setup.</p>
             <div className="tags">
               <span className="tag">Spring Boot</span>
