@@ -15,7 +15,7 @@ const Skills = () => {
           <SkillItem name="JavaScript / React" width="85%" />
         </div>
         <div className="skill-card glass-panel reveal">
-          <h3><i className="fa-solid fa-gamepad"></i> Web Dev</h3>
+          <h3><i className="fa-solid "></i> Web Dev</h3>
           <SkillItem name="React " width="90%" />
           <SkillItem name="Node" width="80%" />
           <SkillItem name="Spring Boot" width="75%" />
